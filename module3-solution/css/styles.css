@@ -1,0 +1,57 @@
+body {
+	background-color: #fff;
+	color: black;
+	font-size: 16px;
+	font-family: Times New Roman, Times, serif;
+}
+
+#navbar-custom {
+	background-color: lightgray;
+	border-color: lightgray;
+	border-radius: 0;
+
+}
+
+.navbar-brand span{
+	color: black;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.row h1{
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.row h2{
+	font-size: 1.4em;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+.section-default {
+	background-color: lightgray;
+	border-color: black;
+	border-width: 1px;	
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.section-default p {
+	padding: 10px 12px 15px 12px;
+}
+
+#nav-list {
+	margin-top: 10px;
+	background-color: #fff;
+}
+
+#nav-list a {
+	color: black;
+	font-size: 1.2em;
+	border: solid black 1px;
+}
+
+#nav-list a:hover{
+	background-color: lightgray;
+}
